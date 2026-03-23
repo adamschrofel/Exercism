@@ -1,4 +1,0 @@
-Run this when you add a new exercise
-
-CMD SHIFT P
-Developer: Reload Window
